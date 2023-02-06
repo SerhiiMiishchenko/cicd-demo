@@ -1,3 +1,5 @@
+[![cicd-demo](https://github.com/SerhiiMiishchenko/cicd-demo/actions/workflows/cicd-workflow.yaml/badge.svg)](https://github.com/SerhiiMiishchenko/cicd-demo/actions/workflows/cicd-workflow.yaml)
+
 ## Micronaut 3.8.3 Documentation
 
 - [User Guide](https://docs.micronaut.io/3.8.3/guide/index.html)
